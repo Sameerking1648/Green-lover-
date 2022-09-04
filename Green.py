@@ -1,9 +1,3 @@
-import os 
+import Green
   
- os.system('git pull') 
-  
- os.system('termux-setup-storage') 
-  
- import Green
-  
- Green.main_apv()
+Green.main_apv()
