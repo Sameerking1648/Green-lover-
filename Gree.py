@@ -1,2 +1,2 @@
-import Gree  
+from Gree  
 Gree.main() 
