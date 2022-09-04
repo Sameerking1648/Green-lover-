@@ -1,3 +1,2 @@
- from Green
-  
- Green.main_apv()
+from Green import main
+main() 
