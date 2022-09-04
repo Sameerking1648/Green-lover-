@@ -1,2 +1,2 @@
-import Gree import main
-main() 
+import Gree  
+Gree.main() 
